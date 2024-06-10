@@ -1,0 +1,63 @@
+﻿@using static UCHAJANASHIA.FINAL.Data.DTo.CatDTO
+@model List<GetCatDto>;
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>Table with Bootstrap</title>
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Cat List</h2>
+        <a type="button" class="btn btn-primary" href="/Cat/AddCat" id="addNewCat">Add New Cat</a>
+        <div class="table-responsive py-2">
+            <table class="table table-striped ">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Birth Date</th>
+                        <th>Gender</th>
+                        <th>breed</th>
+                        <th>color</th>
+                        <th>toys</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model ?? [])
+                    {
+                        <tr>
+                            <th>@item.Name</th>
+                            <th>@item.Birhtday</th>
+                            <th>@item.Gender</th>
+                            <th>@item.Breed</th>
+                            <th>@item.Color</th>
+                            <th> <a href="/Cat/ToyList/@item.Id"> details view</a></th>
+                            <th>
+                                <table>
+                                    <tr>
+                                        <th>
+                                            <form action="/Cat/DeleteCat" method="post">
+                                                <input type="hidden" name="id" value="@item.Id" />
+                                                <button type="submit" class="btn btn-danger">Delete</button>
+                                            </form>
+                                        </th>
+                                        <th>
+                                            <a href="/Cat/UpdateCat/@item.Id" class="btn-dark"> update</a>
+                                        </th>
+                                    </tr>
+                                </table>
+                            </th>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</body>
+</html>

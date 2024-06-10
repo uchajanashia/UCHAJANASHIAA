@@ -1,0 +1,21 @@
+@using static UCHAJANASHIA.FINAL.Data.DTo.CatDTO
+@model GetCatDto
+<form action="/Cat/UpdateCat" method="post">
+    <input name="Id" type="text" style="display:none" value="@Model.Id" />
+    <label> Name</label>
+    <input name="Name" type="text" value="@Model.Name" />
+
+    <label> Birhtday</label>
+    <input name="Birhtday" type="date" value="@Model.Birhtday?.ToDateTime(TimeOnly.MinValue).ToString("yyyy-MM-dd")" />
+
+    <label> Gender</label>
+    <input name="Gender" type="text" value="@Model.Gender" />
+
+    <label> Breed</label>
+    <input name="Breed" type="text" value="@Model.Breed" />
+
+    <label> Color</label>
+    <input name="Color" type="text" value="@Model.Color" />
+
+    <button type="submit"> submit/button>
+</form>

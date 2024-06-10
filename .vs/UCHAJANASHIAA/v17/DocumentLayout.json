@@ -1,0 +1,319 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\data\\dto\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\data\\dto\\catdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\controllers\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\controllers\\catcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\views\\cat\\updatecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\views\\cat\\updatecat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\views\\cat\\toylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\views\\cat\\toylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\views\\cat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\views\\cat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\data\\dto\\toydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\data\\dto\\toydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\models\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\models\\toy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\data\\interfaces\\icatandtoyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\data\\interfaces\\icatandtoyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\service\\catandtoyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\service\\catandtoyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\views\\cat\\addcat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\views\\cat\\addcat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\migrations\\20240610075658_uca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\migrations\\20240610075658_uca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\data\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\data\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|c:\\users\\user\\source\\repos\\uchajanashiaa\\uchajanashia.final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04E6CC3F-6C49-4F83-9BED-EC60339AF67A}|UCHAJANASHIA.FINAL\\UCHAJANASHIA.FINAL.csproj|solutionrelative:uchajanashia.final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 112,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\DTo\\CatDTO.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Data\\DTo\\CatDTO.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\DTo\\CatDTO.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Data\\DTo\\CatDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:46:48.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CatController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Controllers\\CatController.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Controllers\\CatController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Controllers\\CatController.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Controllers\\CatController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:38:35.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToyList.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Views\\Cat\\ToyList.cshtml",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Views\\Cat\\ToyList.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Views\\Cat\\ToyList.cshtml",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Views\\Cat\\ToyList.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T08:01:03.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Toy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Models\\Toy.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Models\\Toy.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Models\\Toy.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Models\\Toy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:51:25.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToyDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\DTo\\ToyDto.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Data\\DTo\\ToyDto.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\DTo\\ToyDto.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Data\\DTo\\ToyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:51:42.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICatAndToyService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\interfaces\\ICatAndToyService.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Data\\interfaces\\ICatAndToyService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\interfaces\\ICatAndToyService.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Data\\interfaces\\ICatAndToyService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:40:19.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Models\\Cat.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Models\\Cat.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:51:21.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\appsettings.json",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\appsettings.json",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAADmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T07:44:26.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateCat.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Views\\Cat\\UpdateCat.cshtml",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Views\\Cat\\UpdateCat.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Views\\Cat\\UpdateCat.cshtml",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Views\\Cat\\UpdateCat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T07:45:57.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Views\\Cat\\Index.cshtml",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Views\\Cat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Views\\Cat\\Index.cshtml",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Views\\Cat\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACoAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T07:45:59.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CatAndToyService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Service\\CatAndToyService.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Service\\CatAndToyService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Service\\CatAndToyService.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Service\\CatAndToyService.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAuwGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:35:08.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddCat.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Views\\Cat\\AddCat.cshtml",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Views\\Cat\\AddCat.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Views\\Cat\\AddCat.cshtml",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Views\\Cat\\AddCat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T07:45:37.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240610075658_uca.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Migrations\\20240610075658_uca.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Migrations\\20240610075658_uca.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Migrations\\20240610075658_uca.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Migrations\\20240610075658_uca.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:56:59.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:38:04.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Program.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Program.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:39:05.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "UCHAJANASHIA.FINAL\\Data\\Enum\\Gender.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\UCHAJANASHIAA\\UCHAJANASHIA.FINAL\\Data\\Enum\\Gender.cs",
+              "RelativeToolTip": "UCHAJANASHIA.FINAL\\Data\\Enum\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:16:31.346Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

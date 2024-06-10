@@ -1,0 +1,57 @@
+﻿@using static UCHAJANASHIA.FINAL.Data.DTo.ToyDto
+@model List<GetToyDto>;
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>Table with Bootstrap</title>
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>Toy List</h2>
+        <a type="button" class="btn btn-primary" href="/Cat/AddCat" id="addNewCat">Add New Toy</a>
+        <div class="table-responsive py-2">
+            <table class="table table-striped ">
+                <thead>
+                    <tr>
+                        <th>Toy name</th>
+                        <th>Color</th>
+                        <th>Toy Weight</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model ?? [])
+                    {
+                        <tr>
+                            <th>@item.ToyName</th>
+                            <th>@item.ToyColor</th>
+                            <th>@item.ToyWeight</th>
+                            <th>
+                                <table>
+                                    <tr>
+                                        <th>
+                                             <form action="/Cat/DeleteToy" method="post">
+                                                <input type="hidden" name="id" value="@item.Id" />
+                                                <button type="submit" class="btn btn-danger">Delete</button>
+                                             </form> 
+                                        </th>
+                                        <th>
+                                            <a @* href="/Cat/UpdateCat/@item.Id" *@ class="btn-dark"> update</a>
+                                        </th>
+                                    </tr>
+                                </table>
+                            </th>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+</body>
+</html>
